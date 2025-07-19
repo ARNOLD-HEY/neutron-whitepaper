@@ -5,7 +5,7 @@ Neutron $NEUT is an eco-friendly, staking-enabled cryptocurrency project origina
 This repo contains the official whitepaper and documentation.
 
 ## 📄 Contents
-- [Whitepaper](./Neutron-Whitepaper.md)
+- [Whitepaper](https://github.com/ARNOLD-HEY/neutron-whitepaper/blob/main/Neutron_Whitepaper.pdf)
 - Tokenomics
 - Staking and Vault Systems
 - Roadmap
